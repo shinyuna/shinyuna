@@ -1,5 +1,3 @@
-### 👩‍💻 I'm studying hard..🔥
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=YUNA_SHIN&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
