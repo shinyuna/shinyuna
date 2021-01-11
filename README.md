@@ -23,7 +23,6 @@
 
 <h3 align="center">My Contact ☎️ &nbsp& Channel 🔗</h3>
 <p align="center">
-<!--   <a href="https://www.notion.so/yunadev/Engineering-Wiki-4f3a0199951845529928c173a77d8617"><img src="https://img.shields.io/badge/Tech%20Blog-525252?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yunadev/Engineering-Wiki-4f3a0199951845529928c173a77d8617"/></a>&nbsp -->
   <a href="https://www.instagram.com/yooooong_na/"><img src="https://img.shields.io/badge/Instagram-579aff?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yooooong_na/"/></a>&nbsp
   <a href="mailto:yunadev01@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yunadev01@gamil.com"/></a>
 </p>
