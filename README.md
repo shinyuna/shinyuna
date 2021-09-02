@@ -14,10 +14,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SHINYUNA&fontSize=70&animation=twinkling)
 
-<a href="https://github.com/shinyuna/" display="block">
+<!-- <a href="https://github.com/shinyuna/" display="block">
 <img margin="0 auto" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shinyuna&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-
+ -->
 </div>
 
 <br/>
